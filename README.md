@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hi, I'm Stephen Okafor</h1>
 <h3 align="center">Front-End Developer | ALX Software Engineering Learner | Creative Builder of Purpose-Driven Solutions</h3>
 
----
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/43542375-df24-4166-8b03-bfcdfee32ad4" alt="Stephen Okafor" width="180" style="border-radius:50%; box-shadow:0px 2px 8px rgba(0,0,0,0.2);" />
+</p>
 ### 🧭 About Me
 
 <p align="justify">
@@ -26,6 +27,10 @@ I’m especially inspired to <strong>serve the Church</strong> through meaningfu
 ---💼 Featured Projects
 <table> <tr> <td width="50%"> <h4 align="center">🌤️ WeatherCheck App</h4> <p align="center"> A responsive weather app that fetches real-time weather data from an API. Built with HTML, CSS, and JavaScript. All you need to do is to click the search icon! <br/> <a href="https://weathercheckbysteve.netlify.app" target="_blank">🔗 View on GitHub</a> </p> </td> <td width="50%"> <h4 align="center">📝 To-Do List App</h4> <p align="center"> A clean and minimal to-do list app that helps users stay organized and productive. Built with vanilla JavaScript and localStorage. <br/> <a href="https://todo-list-bysteve.netlify.app" target="_blank">🔗 View on GitHub</a> </p> </td> </tr> 
 
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" alt="Tech stack icons" />
+</p>
 
 
 🌱 Current Goals
