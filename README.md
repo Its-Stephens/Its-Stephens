@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Stephen Okafor</h1>
-<h3 align="center">Front-End Developer | ALX Software Engineering Learner | Creative Builder of Purpose-Driven Solutions</h3>
+<h3 align="center">Front-End Developer | Creative Builder of Purpose-Driven Solutions</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/43542375-df24-4166-8b03-bfcdfee32ad4" alt="Stephen Okafor" width="180" style="border-radius:50%; box-shadow:0px 2px 8px rgba(0,0,0,0.2);" />
